@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SnufkinGH
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Git, Databases, Java(Core, Spring), English
+- 🌱 I’m currently learning Spring Data, Hybernate, English
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me andrei.hohlov2002@yandex.ru
 

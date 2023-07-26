@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @SnufkinGH
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Spring Data, Hybernate, English
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @SnufkinGH / Andrey.
+  
+- I am currently working as a Node backend.js developer in Samara (Russia).
+- I am also studying at SSAU for a bachelor's degree in computer science.
+  
+- Besides TS/JS i'm also familiar with Java and C++.
+  
 - 📫 How to reach me andrei.hohlov2002@yandex.ru
 
 <!---
